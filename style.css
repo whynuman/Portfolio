@@ -275,6 +275,12 @@ header {
   width: 90%;
   padding-bottom: 5rem;
 }
+.swiper-slide a {
+  text-decoration: none;
+}
+.swiper-slide a:hover {
+  text-decoration:underline;
+}
 .project-card {
   background: linear-gradient(145deg, #1a1a2e, #0f0f2e);
   border-radius: 1.5rem;
